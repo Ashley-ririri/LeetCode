@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 SELECT 
-  *
+  name, population, area
 FROM
   world
 WHERE
