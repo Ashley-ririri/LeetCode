@@ -5,4 +5,4 @@ FROM
   World
 WHERE
   area >= 3000000
-  and population >= 2500000 
+  or population >= 25000000 
